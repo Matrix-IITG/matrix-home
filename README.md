@@ -1,2 +1,2 @@
 # matrix
-This project is for the development of Matrix wepapp
+https://gitter.im/Matrix-IITG/Lobby
